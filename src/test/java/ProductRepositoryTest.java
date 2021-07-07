@@ -2,7 +2,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import repository.NotFoundException;
 import repository.ProductRepository;
-import ru.netology.domain.Book;
 import ru.netology.domain.Product;
 
 import static org.junit.jupiter.api.Assertions.*;
